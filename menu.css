@@ -127,7 +127,7 @@ header ul li a
 .container .card .imgBx 
 {
     position: relative;
-    top: 50%;
+    top: 40%;
     transform: translateY(-50%);
     z-index: 10000;
     width: 100%;
@@ -343,7 +343,7 @@ header ul li a
 .container2 .card .imgBx 
 {
     position: relative;
-    top: 50%;
+    top: 40%;
     transform: translateY(-50%);
     z-index: 10000;
     width: 100%;
@@ -366,7 +366,7 @@ header ul li a
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%) rotate(-25deg);
-    width: 270px;
+    width: 240px;
 }
 
 
@@ -557,11 +557,11 @@ header ul li a
 .container3 .card .imgBx 
 {
     position: relative;
-    top: 50%;
+    top: 40%;
     transform: translateY(-50%);
     z-index: 10000;
     width: 100%;
-    height: 220px;
+    height: 300px;
     align-items: center;
     transition: 0.5s;
 }
@@ -580,7 +580,7 @@ header ul li a
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%) rotate(-25deg);
-    width: 270px;
+    width: 200px;
 }
 
 
@@ -597,7 +597,7 @@ header ul li a
 
 .container3 .card:hover .contentBx
 {
-    height: 210px;
+    height: 190px;
 }
 .container3 .card .contentBx h2
 {
@@ -716,7 +716,7 @@ header ul li a
     background: #C3F899;
 }
 
-/* .container4
+ .container4
 {
     position: relative;
     top: -2560px;
